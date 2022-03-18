@@ -14,5 +14,7 @@ public class isPrime {
                 System.out.printf(" %d is an even number.\n", i);
             }
         }
+
+        scan.close();
     }
 }
