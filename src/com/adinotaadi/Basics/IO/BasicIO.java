@@ -1,4 +1,4 @@
-package com.adinotaadi.IO;
+package com.adinotaadi.Basics.IO;
 
 import java.util.Scanner;
 

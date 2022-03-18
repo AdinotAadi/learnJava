@@ -1,4 +1,4 @@
-package com.adinotaadi.Conditionals;
+package com.adinotaadi.Basics.Conditionals;
 
 import java.util.Scanner;
 

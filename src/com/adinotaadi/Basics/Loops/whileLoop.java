@@ -1,4 +1,4 @@
-package com.adinotaadi.Loops;
+package com.adinotaadi.Basics.Loops;
 
 import java.util.Scanner;
 
