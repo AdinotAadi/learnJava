@@ -11,7 +11,7 @@ Code dump of all the lectures of Kunal Kushwaha's Java + DSA bootcamp.
 7. Functions.
 
 ## Advanced  
-1. Arrays
+1. Arrays  
 a. Array declaration:
     ```Java
     dataType[] arrayName = new dataType[length];
