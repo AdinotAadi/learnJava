@@ -17,8 +17,8 @@ Code dump of all the lectures of Kunal Kushwaha's Java + DSA bootcamp.
    dataType[] arrayName = new dataType[length];
    arrayName[i -> length] = element;
 
-    // or simply
-    dataType[] arrayName = {elements};
+   // or simply
+   dataType[] arrayName = {elements};
    ```
    
    #### b. Convert arrays to string:  
