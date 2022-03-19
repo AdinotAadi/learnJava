@@ -21,10 +21,10 @@ Code dump of all the lectures of Kunal Kushwaha's Java + DSA bootcamp.
     dataType[] arrayName = {elements};    
     ```
    
-   #### b. Convert arrays to string: 
-      ```Java
-      Arrays.toString(arrayName);
-      ```  
+   #### b. Convert arrays to string:  
+   ```Java
+   Arrays.toString(arrayName);
+   ```
 ### 2. Array Lists  
    They can store an "infinite" number of elements, as in it can change its size dynamically to accommodate more elements than its initial size.   
    #### a. ArrayList declaration:
