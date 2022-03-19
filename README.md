@@ -13,18 +13,18 @@ Code dump of all the lectures of Kunal Kushwaha's Java + DSA bootcamp.
 ## Advanced  
 ### 1. Arrays  
    #### a. Array declaration:
-    ```Java
-    dataType[] arrayName = new dataType[length];
-    arrayName[i -> length] = element;
+       ```Java
+       dataType[] arrayName = new dataType[length];
+       arrayName[i -> length] = element;
 
-    // or simply
-    dataType[] arrayName = {elements};    
-    ```
+       // or simply
+       dataType[] arrayName = {elements};    
+       ```
    
    #### b. Convert arrays to string: 
-   ```Java
-   Arrays.toString(arrayName);
-   ```  
+      ```Java
+      Arrays.toString(arrayName);
+      ```  
 ### 2. Array Lists  
    They can store an "infinite" number of elements, as in it can change its size dynamically to accommodate more elements than its initial size.   
    #### a. ArrayList declaration:
