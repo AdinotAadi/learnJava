@@ -19,4 +19,8 @@ a. Array declaration:
     
     // or simply
     dataType[] arrayName = {elements};    
+    ```  
+b. Convert arrays to string:  
+    ```Java
+        Arrays.toString(arrayName);
     ```
