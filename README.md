@@ -13,13 +13,13 @@ Code dump of all the lectures of Kunal Kushwaha's Java + DSA bootcamp.
 ## Advanced  
 ### 1. Arrays  
    #### a. Array declaration:  
-    ```Java
-    dataType[] arrayName = new dataType[length];
-    arrayName[i -> length] = element;
+   ```Java
+   dataType[] arrayName = new dataType[length];
+   arrayName[i -> length] = element;
 
     // or simply
-    dataType[] arrayName = {elements};    
-    ```
+    dataType[] arrayName = {elements};
+   ```
    
    #### b. Convert arrays to string:  
    ```Java
