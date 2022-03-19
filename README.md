@@ -24,4 +24,14 @@ a. Array declaration:
    b. Convert arrays to string: 
       ```Java
       Arrays.toString(arrayName);
+      ```  
+2. Array Lists  
+   They can store an "infinite" number of elements, as in it can change its size dynamically to accommodate more elements than its initial size.   
+      a. ArrayList declaration:
+      ```Java
+      ArrayList<DataType> = new ArrayList<>(initial size of the array list);
+      ```  
+      b. Adding elements to ArrayList:
+      ```Java
+      nameOfArrayList.add(<element>);
       ```
