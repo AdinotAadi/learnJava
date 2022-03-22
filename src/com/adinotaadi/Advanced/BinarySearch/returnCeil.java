@@ -10,7 +10,7 @@ public class returnCeil {
         while(start <= end) {
             int mid = start + ((end - start) / 2);
             if (num == arr[mid]) {  // If the answer is found, the index of the number found is returned.
-                return mid;
+                return arr[mid];
             }
             else if (num < arr[mid]) {  // If middle element is larger than the given input, the end pointer is changed to index "mid - 1".
                 end = mid - 1;
@@ -19,7 +19,7 @@ public class returnCeil {
                 start = mid + 1;
             }
         }
-        return start;
+        return arr[start];
     }
 
     public static void main(String[] args) {
